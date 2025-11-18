@@ -87,7 +87,7 @@ def pronadji_vozilo(lista_vozila):
 
 def main():
     """Glavna funkcija programa"""
-    autosalon = []
+    
     
     print("Dobrodošli u sustav evidencije autosalona!")
     
@@ -142,4 +142,5 @@ def main():
 
 
     
+
 
